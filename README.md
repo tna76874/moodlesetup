@@ -27,7 +27,7 @@ Now there are three files in the export folder:
 | File 	| Description 	|
 |-	|-	|
 | courses.csv 	| You can drag and drop this file in the moodle admin-section to batch create all needed courses. **Do this first.** 	|
-| users.csv 	| Via crag and drop of this file you can create all moodle-users and enrol them in courses 	|
+| users.csv 	| Via drag and drop of this file you can create all moodle-users and enrol them in courses 	|
 | print.csv 	| An overview over the created users + passwords. Format and print this if you want. 	|
 
 ### Config-File
